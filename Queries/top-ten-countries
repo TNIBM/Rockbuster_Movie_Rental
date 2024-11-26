@@ -1,0 +1,9 @@
+SQL code that extracts the most customers, country wise in a descending order.
+SELECT c.country AS country, COUNT(cust.customer_id) AS customer_count
+FROM customer cust
+INNER JOIN address addr ON cust.address_id = addr.address_id
+INNER JOIN city ci ON addr.city_id = ci.city_id
+INNER JOIN country c ON ci.country_id = c.country_id
+GROUP BY c.country
+ORDER BY customer_count DESC
+LIMIT 10;
