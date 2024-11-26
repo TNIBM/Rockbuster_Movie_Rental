@@ -16,4 +16,5 @@ the  main  questions  they’d  like  to  answer:
 ● Where  are  customers  with  a  high  lifetime  value  based?   
 ● Do  sales  figures  vary  between  geographic  regions? 
 
-
+## Tableau Dashboard
+Click [here](https://public.tableau.com/app/profile/tamer.nas1925/viz/RBWORLDcustomercount/RockbusterStealth?publish=yes) To visit the Tableau Visualizations.
