@@ -17,6 +17,7 @@ the  main  questions  they’d  like  to  answer:
 ● Do  sales  figures  vary  between  geographic  regions? 
 
 ## Dataset
+This dataset contains information about Rockbuster’s film inventory, customers, and payments.The data is extracted from the RDBMS using SQL and subsequently processed for analysis.
 Click [here](https://github.com/TNIBM/SQLRockbuster/blob/main/dvdrental.zip) to download the dataset.
 
 ## Tableau Dashboard
