@@ -21,7 +21,7 @@ This dataset contains information about Rockbuster’s film inventory, customers
 Click [here](https://github.com/TNIBM/SQLRockbuster/blob/main/dvdrental.zip) to download the dataset.
 
 ## Tableau Dashboard
-Click [here](https://public.tableau.com/app/profile/tamer.nas1925/viz/RBWORLDcustomercount/RockbusterStealth?publish=yes) to visit the Tableau Visualizations.
+Click [here](https://public.tableau.com/app/profile/tamer.nas1925/viz/RockbusterStealth_17339240590810/RockbusterStealth?publish=yes) to visit the Tableau Visualizations.
 
 ## Portfolio Presentation
 Click [here](https://drive.google.com/file/d/1bz1cPnLqW7V3wjSzy3FKDEKnWX1hZIbw/view?usp=drive_link)
