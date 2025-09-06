@@ -24,5 +24,5 @@ Click [here](https://github.com/TNIBM/SQLRockbuster/blob/main/dvdrental.zip) to 
 Click [here](https://public.tableau.com/app/profile/tamer.nas1925/viz/RBWORLDcustomercount/RockbusterStealth?publish=yes) to visit the Tableau Visualizations.
 
 ## Portfolio Presentation
-Click [here](https://drive.google.com/file/d/1fDsEiAiiqeFrXyQWQNRri8zgKPWPs-SE/view?usp=drive_link)
+Click [here](https://drive.google.com/file/d/1bz1cPnLqW7V3wjSzy3FKDEKnWX1hZIbw/view?usp=drive_link)
 
